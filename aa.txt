@@ -1,1 +1,1 @@
-Dodano branchu, ali da se ne vidi u master, naknadno
+Dodano branchu, ali da se ne vidi u master, naknadno dodano, nebi trebalo u master biti
