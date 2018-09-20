@@ -1,21 +1,2 @@
 
-File koji sam naknadno dodala samo u MASTER!!!
-
-Dodano u file ali samo u prvi branch
-
-
-Dodano u master
-
-Prvi
-
-
-Naknadno dodano u master- 20.9
-Još u master 
-
-Dodano u prvi, prije je dodano u master očem ih sad oba spojiti. 20.9
-Još u prvi
-
-d
-
-
-Izmjena u prvi.
+Dodani samo jedan red ali u MASTER!
