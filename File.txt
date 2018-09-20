@@ -16,3 +16,6 @@ Dodano u prvi, prije je dodano u master očem ih sad oba spojiti. 20.9
 Još u prvi
 
 d
+
+
+Izmjena u prvi.
