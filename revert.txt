@@ -1,1 +1,7 @@
+
 Dodano u prvi branch! Nema u master!
+
+Dodano u master, ali se ne vidi u prvi branch!
+
+Dodano u prvi branch! Nema u master!
+
