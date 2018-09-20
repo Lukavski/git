@@ -6,5 +6,4 @@ Dodano u file ali samo u prvi branch
 
 Dodano u master
 
-
-Naknadno u master dodano
+Prvi
