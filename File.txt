@@ -7,3 +7,5 @@ Dodano u file ali samo u prvi branch
 Dodano u master
 
 Prvi
+
+Dodano u prvi, prije je dodano u master očem ih sad oba spojiti. 20.9
